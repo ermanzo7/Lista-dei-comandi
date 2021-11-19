@@ -8,17 +8,33 @@ COMANDI GENERALI
 !manzi (per sapere quanti manzi hai, ovvero i punti di questo streaming)
 !allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
 
-PREMI GENERALI
+COMANDI A TEMA LOL
 !cazzoguardi (costo: 100 manzi) (suono)
 !spamping (costo: 100 manzi) (suono)
 !prontocarretto (costo: 100 manzi) (suono)
 !cazzoridi (costo: 100 manzi) (suono)
 !seseifortesali (costo: 100 manzi) (suono)
+!1v1 (costo: 3000 manzi) (riscatti una sfida contro di me su League of Legends)
+
+PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)
-!1v1 (costo: 3000 manzi) (riscatti una sfida contro di me su League of Legends o Minecraft)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili)
 
-PREMI DARK SOULS (validi solo quando gioco a Dark Souls)
+COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
+!nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)
+!ko (costo: 250 manzi) (sono costretto a mettere k.o. il Pokèmon selvatico di turno) (valido solo per il pokèmon che sto attualmente combattendo!)
+!squadra (costo: 400 manzi) (scegli tu 3 Pokèmon da mettere in squadra nella prossima lotta contro un allenatore)
+Ora ci sono i comandi DIFFICOLTÀ contrassegnati da !d e un numero alla fine. I numeri indicano l'ordine in cui posso essere sbloccati (esempio: !dstrumenti2 non può essere usato se prima non è stato sbloccato !dstrumenti1)
+!dset (costo: 300 manzi) (D'ora in poi devo giocare con la battle style: set) (vale per tutta la run)
+!dpalestra1 (costo: 300 manzi) (mi costringe a usare lo stesso numero di Pokèmon del Capopalestra) (prossima lotta in palestra) (può essere riutilizzato, ma basta un solo utilizzo per sbloccare !dpalestra2)
+!dpalestra2 (costo: 400 manzi) (mi costringe a usare lo stesso numero di Pokèmon del Capopalestra) (in tutte le prossime lotte in palestra)
+!dpalestra3 (costo: 500 manzi) (mi costringe a usare lo stesso numero di Pokèmom dei Superquattro) (nella lotta contro i Superquattro e il Campione)
+!dstrumenti1 (costo: 300 manzi) (Non posso utilizzare gli strumenti nella prossima lotta in Palestra) (può essere riutilizzato, ma basta un solo utilizzo per sbloccare !dstrumenti2)
+!dstrumenti2 (costo: 450 manzi) (D'ora in poi non posso più utilizzare gli strumenti nelle lotte in Palestra)
+!dstrumenti3 (costo: 500 manzi) (Non posso usare gli strumenti durante la lotta ai Superquattro)
+!dstrumenti4 (costo: 700 manzi) (Non posso utilizzare gli strumenti durante la lotta contro il Campione)
+
+PENITENZE DARK SOULS (validi solo quando gioco a Dark Souls)
 !loda (costo: 150 manzi) (azione)
 !oscurità (costo: 250 manzi) (azione)
 !fermo (costo: 300 manzi) (azione)

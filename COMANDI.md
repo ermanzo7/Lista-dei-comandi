@@ -7,6 +7,7 @@ COMANDI GENERALI
 !top (per sapere chi sono i migliori 5 utenti in base ai punti)
 !manzi (per sapere quanti manzi hai, ovvero i punti di questo streaming)
 !allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
+!itis (costo: 100 manzi) (suono)
 
 COMANDI A TEMA LOL
 !cazzoguardi (costo: 100 manzi) (suono)
@@ -14,6 +15,11 @@ COMANDI A TEMA LOL
 !prontocarretto (costo: 100 manzi) (suono)
 !cazzoridi (costo: 100 manzi) (suono)
 !seseifortesali (costo: 100 manzi) (suono)
+!caster (costo: 100 manzi) (suono)
+!squalojgl (costo: 100 manzi) (suono)
+!asmrr (due r eh) (costo: 80 manzi) (suono)
+!asmrmid (costo: 80 manzi) (suono)
+!asmrmana (costo: 80 manzi) (suono)
 !1v1 (costo: 3000 manzi) (riscatti una sfida contro di me su League of Legends)
 
 PREMI FIGHI

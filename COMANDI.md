@@ -20,7 +20,7 @@ COMANDI A TEMA LOL
 !asmrr (due r eh) (costo: 80 manzi) (suono)
 !asmrmid (costo: 80 manzi) (suono)
 !asmrmana (costo: 80 manzi) (suono)
-!1v1 (costo: 3000 manzi) (riscatti una sfida contro di me su League of Legends)
+!1v1 (costo: 2000 manzi) (riscatti una sfida contro di me su League of Legends)
 
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)

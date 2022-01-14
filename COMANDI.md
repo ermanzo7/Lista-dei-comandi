@@ -45,5 +45,11 @@ PENITENZE DARK SOULS (validi solo quando gioco a Dark Souls)
 !oscurità (costo: 250 manzi) (azione)
 !fermo (costo: 300 manzi) (azione)
 !morte (costo: 500 manzi) (azione)
+!nocure (costo: 250 manzi) (azione)
+!attento (costo: 100 manzi) (suono)
+!clown (costo: 100 manzi) (suono)
+!jumpscare (costo: 90 manzi) (suono) (jumpscare)
+!fart (costo: 90 manzi) (suono) (jumpscare)
+!urlo (costo: 90 manzi) (suono) (jumpscare)
 
 NUOVI COMANDI E SUONI ARRIVERANNO A BREVE

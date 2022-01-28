@@ -8,6 +8,7 @@ COMANDI GENERALI
 !manzi (per sapere quanti manzi hai, ovvero i punti di questo streaming)
 !allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
 !itis (costo: 100 manzi) (suono)
+!jojo (costo: 100 manzi) (suono)
 
 COMANDI A TEMA LOL
 !cazzoguardi (costo: 100 manzi) (suono)
@@ -39,6 +40,7 @@ Ora ci sono i comandi DIFFICOLTÀ contrassegnati da !d e un numero alla fine. I 
 !dstrumenti2 (costo: 450 manzi) (D'ora in poi non posso più utilizzare gli strumenti nelle lotte in Palestra)
 !dstrumenti3 (costo: 500 manzi) (Non posso usare gli strumenti durante la lotta ai Superquattro)
 !dstrumenti4 (costo: 700 manzi) (Non posso utilizzare gli strumenti durante la lotta contro il Campione)
+Per Pokèmon Leggende Arceus valgono solo i comandi !nome e !ko siccome non conosco come funziona il gioco, per ora. Potrei aggiungere nuovi comandi in futuro!
 
 PENITENZE DARK SOULS (validi solo quando gioco a Dark Souls)
 !loda (costo: 150 manzi) (azione)

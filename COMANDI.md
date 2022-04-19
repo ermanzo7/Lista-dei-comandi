@@ -32,6 +32,7 @@ COMANDI A TEMA LOL
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)
+!telegram (costo: 500 manzi) (GRATIS per i sub! Basta aver fatto il sub al mio canale almeno una volta) (riscatta il comando per entrare nel mio gruppo Telegram dove avviso per le live, si chiacchera, si postano memes ecc ecc)
 
 COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
 !nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)

@@ -51,10 +51,10 @@ Per Pokèmon Leggende Arceus valgono solo i comandi !nome e !ko siccome non cono
 
 PENITENZE DARK SOULS (validi solo quando gioco a Dark Souls)
 !loda (costo: 150 manzi) (azione)
-!oscurità (costo: 250 manzi) (azione)
-!fermo (costo: 300 manzi) (azione)
+!oscurità (costo: 200 manzi) (azione)
+!fermo (costo: 250 manzi) (azione)
 !morte (costo: 500 manzi) (azione)
-!nocure (costo: 250 manzi) (azione)
+!nocure (costo: 200 manzi) (azione)
 !attento (costo: 100 manzi) (suono)
 !clown (costo: 100 manzi) (suono)
 !jumpscare (costo: 90 manzi) (suono) (jumpscare)

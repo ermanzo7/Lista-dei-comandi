@@ -37,6 +37,7 @@ COMANDI A TEMA LOL
 
 COMANDI A TEMA VALORANT
 !asmrsoldi (costo: 80 manzi) (suono)
+!calmati (costo: 100 manzi) (suono)
 
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)

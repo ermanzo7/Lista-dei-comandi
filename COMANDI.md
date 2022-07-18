@@ -35,6 +35,9 @@ COMANDI A TEMA LOL
 !asmrmana (costo: 80 manzi) (suono)
 !1v1 (costo: 2000 manzi) (riscatti una sfida contro di me su League of Legends)
 
+COMANDI A TEMA VALORANT
+!asmrsoldi (costo: 80 manzi) (suono)
+
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)

@@ -23,6 +23,9 @@ SUONI GENERALI (riscattati da voi tramite new sound)
 !lag (costo: 100 manzi) (suono) / !lagboss (per obigbosso738)
 !wombocombo (costo: 100 manzi) (suono) / !womboboss (per obigbosso738)
 !snore (costo: 100 manzi) (suono) / !snoreboss (per obigbosso738)
+!amongus (costo: 100 manzi) (suono) / !amongusobito (per obitoquack)
+!korone (costo: 100 manzi) (suono) / !koroneboss (per obigbosso738)
+!love (costo: 100 manzi) (suono) / !loveboss (per obigbosso738)
 
 COMANDI A TEMA LOL
 !spamping (costo: 100 manzi) (suono)

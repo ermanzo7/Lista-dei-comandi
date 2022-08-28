@@ -7,11 +7,9 @@ COMANDI GENERALI
 !top (per sapere chi sono i migliori 5 utenti in base ai punti)
 !manzi (per sapere quanti manzi hai, ovvero i punti di questo streaming)
 !allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
+!telegram (riscatta il comando per entrare nel mio gruppo Telegram dove avviso per le live, si chiacchera, si postano memes ecc ecc)
 
 SUONI GENERALI (riscattati da voi tramite new sound)
-!fart (costo: 90 manzi) (suono) (jumpscare)
-!jumpscare (costo: 90 manzi) (suono) (jumpscare)
-!urlo (costo: 90 manzi) (suono) (jumpscare)
 !cazzoguardi (costo: 100 manzi) (suono)
 !cazzoridi (costo: 100 manzi) (suono)
 !itis (costo: 100 manzi) (suono) / !itisboss (per obigbosso738)
@@ -19,13 +17,19 @@ SUONI GENERALI (riscattati da voi tramite new sound)
 !bruh (costo: 100 manzi) (suono) / !bruhboss (per obigbosso738)
 !fakerviene (costo: 100 manzi) (suono) / !fakerboss (per obigbosso738)
 !porta (costo: 100 manzi) (suono) / !portaboss (per obigbosso738)
-!urlodonna (costo: 100 manzi) (suono) / !urlostazizz (per stazizz89)
 !lag (costo: 100 manzi) (suono) / !lagboss (per obigbosso738)
 !wombocombo (costo: 100 manzi) (suono) / !womboboss (per obigbosso738)
 !snore (costo: 100 manzi) (suono) / !snoreboss (per obigbosso738)
 !amongus (costo: 100 manzi) (suono) / !amongusobito (per obitoquack)
 !korone (costo: 100 manzi) (suono) / !koroneboss (per obigbosso738)
 !love (costo: 100 manzi) (suono) / !loveboss (per obigbosso738)
+!passi (costo: 100 manzi) (suono) / !passiboss (per obigbosso738)
+
+SUONI JUMPSCARE
+!fart (costo: 90 manzi) (suono) (jumpscare)
+!jumpscare (costo: 90 manzi) (suono) (jumpscare)
+!urlo (costo: 90 manzi) (suono) (jumpscare)
+!urlodonna (costo: 100 manzi) (suono) / !urlostazizz (per stazizz89)
 
 COMANDI A TEMA LOL
 !spamping (costo: 100 manzi) (suono)
@@ -46,7 +50,6 @@ COMANDI A TEMA VALORANT
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)
-!telegram (costo: 500 manzi) (GRATIS per i sub! Basta aver fatto il sub al mio canale almeno una volta) (riscatta il comando per entrare nel mio gruppo Telegram dove avviso per le live, si chiacchera, si postano memes ecc ecc)
 
 COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
 !nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)

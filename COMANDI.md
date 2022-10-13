@@ -24,6 +24,11 @@ SUONI GENERALI (riscattati da voi tramite new sound)
 !korone (costo: 100 manzi) (suono) / !koroneboss (per obigbosso738)
 !love (costo: 100 manzi) (suono) / !loveboss (per obigbosso738)
 !passi (costo: 100 manzi) (suono) / !passiboss (per obigbosso738)
+!jesse (costo: 100 manzi) (suono) / !jesseboss (per obigbosso738)
+!sneeze (costo: 100 manzi) (suono) / !sneezeboss (per obigbosso738)
+!wassup (costo: 100 manzi) (suono) / !wassupmeed (per iOxMeed)
+!ohw (costo: 100 manzi) (suono) / !ohwmeed (per iOxMeed)
+!minion (costo: 100 manzi) (suono) / !minionboss (per obigbosso738)
 
 SUONI JUMPSCARE
 !fart (costo: 90 manzi) (suono) (jumpscare)

@@ -53,8 +53,10 @@ COMANDI A TEMA VALORANT
 !angoli (costo: 100 manzi) (suono)
 
 PREMI FIGHI
-!greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen)
+!greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen) (PER ORA DI SFONDO SOLO QUANDO VIENE RISCATTATO IL COMANDO !vtuber o !vtubero)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)
+!vtuber (costo: 1000 manzi) (uso il mio modello da vtuber per 30 minuti)
+!vtubero (costo: 600 manzi) (uso il mio modello png da patata parlante per 30 minuti)
 
 COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
 !nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)

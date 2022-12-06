@@ -9,9 +9,9 @@ COMANDI GENERALI
 !allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
 !telegram (riscatta il comando per entrare nel mio gruppo Telegram dove avviso per le live, si chiacchera, si postano memes ecc ecc)
 
-SUONI GENERALI (riscattati da voi tramite new sound)
-!cazzoguardi (costo: 100 manzi) (suono)
-!cazzoridi (costo: 100 manzi) (suono)
+SUONI GENERALI (e riscattati da voi tramite new sound)
+!cazzoguardi (costo: 100 manzi) (suono) (ermanzo originals)
+!cazzoridi (costo: 100 manzi) (suono) (ermanzo originals)
 !itis (costo: 100 manzi) (suono) / !itisboss (per obigbosso738)
 !jojo (costo: 100 manzi) (suono) / !jojoboss (per obigbosso738)
 !bruh (costo: 100 manzi) (suono) / !bruhboss (per obigbosso738)
@@ -29,6 +29,15 @@ SUONI GENERALI (riscattati da voi tramite new sound)
 !wassup (costo: 100 manzi) (suono) / !wassupmeed (per iOxMeed)
 !ohw (costo: 100 manzi) (suono) / !ohwmeed (per iOxMeed)
 !minion (costo: 100 manzi) (suono) / !minionboss (per obigbosso738)
+!banana (costo: 100 manzi) (suono) (ermanzo originals)
+!calmati (costo: 100 manzi) (suono) (ermanzo originals)
+!doppio (costo: 100 manzi) (suono) / !doppioserb (per survivalserb3)
+!maa (costo: 100 manzi) (suono) / !maakramina (per Kramina)
+!spiderman (costo: 100 manzi) (suono) / !spidermanboss (per obigbosso738)
+!women (costo: 100 manzi) (suono) / !womenboss (per obigbosso738)
+!uomo (costo: 100 manzi) (suono) / !uomoserb (per survivalserb3)
+!twitter (costo: 100 manzi) (suono) / !twitterobito (per obitoquack)
+!titanic (costo: 100 manzi) (suono) / !titanicserb (per survivalserb3)
 
 SUONI JUMPSCARE
 !fart (costo: 90 manzi) (suono) (jumpscare)
@@ -37,26 +46,28 @@ SUONI JUMPSCARE
 !urlodonna (costo: 100 manzi) (suono) / !urlostazizz (per stazizz89)
 
 COMANDI A TEMA LOL
-!spamping (costo: 100 manzi) (suono)
-!prontocarretto (costo: 100 manzi) (suono)
-!seseifortesali (costo: 100 manzi) (suono)
-!caster (costo: 100 manzi) (suono)
-!squalojgl (costo: 100 manzi) (suono)
-!asmrr (due r eh) (costo: 80 manzi) (suono)
-!asmrmid (costo: 80 manzi) (suono)
-!asmrmana (costo: 80 manzi) (suono)
+!spamping (costo: 100 manzi) (suono) (ermanzo originals)
+!prontocarretto (costo: 100 manzi) (suono) (ermanzo originals)
+!seseifortesali (costo: 100 manzi) (suono) (ermanzo originals)
+!caster (costo: 100 manzi) (suono) (ermanzo originals)
+!squalojgl (costo: 100 manzi) (suono) (ermanzo originals)
+!asmrr (due r eh) (costo: 80 manzi) (suono) (ermanzo originals)
+!asmrmid (costo: 80 manzi) (suono) (ermanzo originals)
+!asmrmana (costo: 80 manzi) (suono) (ermanzo originals)
 !1v1 (costo: 2000 manzi) (riscatti una sfida contro di me su League of Legends)
 
 COMANDI A TEMA VALORANT
-!asmrsoldi (costo: 80 manzi) (suono)
-!calmati (costo: 100 manzi) (suono)
-!angoli (costo: 100 manzi) (suono)
+!asmrsoldi (costo: 80 manzi) (suono) (ermanzo originals)
+!angoli (costo: 100 manzi) (suono) (ermanzo originals)
+
+COMANDI A TEMA SKYRIM
+!guardia (costo: 100 manzi) (suono) / !guardiaserb (per survivalserb3)
 
 PREMI FIGHI
 !greenscreen (costo: 300 manzi) (fai cambiare con un'immagine a tua scelta lo sfondo del green screen) (PER ORA DI SFONDO SOLO QUANDO VIENE RISCATTATO IL COMANDO !vtuber o !vtubero)
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)
-!vtuber (costo: 1000 manzi) (uso il mio modello da vtuber per 30 minuti)
-!vtubero (costo: 600 manzi) (uso il mio modello png da patata parlante per 30 minuti)
+!vtuber (costo: 800 manzi) (uso il mio modello da vtuber per 30 minuti)
+!vtubero (costo: 500 manzi) (uso il mio modello png da patata parlante per 30 minuti)
 
 COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
 !nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)
@@ -76,10 +87,10 @@ Per Pokèmon Leggende Arceus valgono solo i comandi !nome e !ko siccome non cono
 PENITENZE DARK SOULS (validi solo quando gioco a Dark Souls)
 !loda (costo: 150 manzi) (azione)
 !oscurità (costo: 200 manzi) (azione)
-!fermo (costo: 250 manzi) (azione)
-!morte (costo: 500 manzi) (azione)
-!nocure (costo: 200 manzi) (azione)
-!attento (costo: 100 manzi) (suono)
-!clown (costo: 100 manzi) (suono)
+!fermo (costo: 250 manzi) (azione) (ermanzo originals)
+!morte (costo: 500 manzi) (azione) (ermanzo originals)
+!nocure (costo: 200 manzi) (azione) (ermanzo originals)
+!attento (costo: 100 manzi) (suono) (ermanzo originals)
+!clown (costo: 100 manzi) (suono) (ermanzo originals)
 
 NUOVI COMANDI E SUONI ARRIVERANNO A BREVE

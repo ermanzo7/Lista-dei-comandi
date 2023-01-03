@@ -38,6 +38,10 @@ SUONI GENERALI (e riscattati da voi tramite new sound)
 !uomo (costo: 100 manzi) (suono) / !uomoserb (per survivalserb3)
 !twitter (costo: 100 manzi) (suono) / !twitterobito (per obitoquack)
 !titanic (costo: 100 manzi) (suono) / !titanicserb (per survivalserb3)
+!goofy (costo: 100 manzi) (suono) / !goofyobito (per obitoquack)
+!pollo (costo: 100 manzi) (suono) / !pollostaz (per stazizz89)
+!scena (costo: 90 manzi) (suono) (ermanzo originals)
+!lebet (costo: 90 manzi) (suono) (ermanzo originals)
 
 SUONI JUMPSCARE
 !fart (costo: 90 manzi) (suono) (jumpscare)
@@ -68,6 +72,7 @@ PREMI FIGHI
 !newsound (costo: 3000 manzi) (puoi creare un suono per lo streaming usando tutto ciò che ti pare: la tua voce un effetto sonoro, o la mia voce. Del montaggio mi occupo io, a meno che non vuoi farlo tu. Ovviamente niente cose bannabili) (L'utente che ha riscattato il suono, inoltre, lo pagherà SEMPRE 30 manzi in meno)
 !vtuber (costo: 800 manzi) (uso il mio modello da vtuber per 30 minuti)
 !vtubero (costo: 500 manzi) (uso il mio modello png da patata parlante per 30 minuti)
+!vip (costo: 50.000 manzi) (diventi vip del canale) (PRIVILEGI DEL VIP: icona da vip davanti al nome, accesso ai suoni esclusivi per vip (arriveranno), e musica da boss ogni volta che entri in chat (quest'ultima cosa è una cazzata).
 
 COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
 !nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)

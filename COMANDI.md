@@ -6,7 +6,7 @@ COMANDI GENERALI
 !rank (per sapere che rank sei attualmente)
 !top (per sapere chi sono i migliori 5 utenti in base ai punti)
 !manzi (per sapere quanti manzi hai, ovvero i punti di questo streaming)
-!allcommands (per far apparire questa lista, ma tanto già lo sai se sei qui)
+!comandi (per far apparire questa lista, ma tanto già lo sai se sei qui)
 !telegram (riscatta il comando per entrare nel mio gruppo Telegram dove avviso per le live, si chiacchera, si postano memes ecc ecc)
 !discord (apparirà il mio username Discord, mandami la richiesta d'amicizia per entrare nel server)
 

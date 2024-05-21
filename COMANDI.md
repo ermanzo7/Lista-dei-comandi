@@ -16,8 +16,9 @@ PREMI FIGHI
 !vtuber (costo: 800 manzi) (uso il mio modello da vtuber per 30 minuti)
 !vtubero (costo: 500 manzi) (uso il mio modello png da patata parlante per 30 minuti)
 !vip (costo: 50.000 manzi) (diventi vip del canale) (PRIVILEGI DEL VIP: icona da vip davanti al nome, accesso ai suoni esclusivi per vip (arriveranno), e musica da boss ogni volta che entri in chat (quest'ultima cosa è una cazzata).
+!ruota (costo: 50 manzi) (gira la ruota per vincere manzi e altri fantastici premi!)
 
-SUONI (ERMANZO ORIGINALS XD)
+SUONI (PER TUTTI)
 !attento (costo: 100 manzi) (ermanzo originals)
 !banana (costo: 100 manzi) (ermanzo originals)
 !calmati (costo: 100 manzi) (ermanzo originals)
@@ -26,6 +27,19 @@ SUONI (ERMANZO ORIGINALS XD)
 !lebet (costo: 100 manzi) (ermanzo originals)
 !cazzoridi (costo: 100 manzi) (ermanzo originals)
 !cazzoguardi (costo: 100 manzi) (ermanzo originals)
+!fart (costo: 100 manzi) (jumpscare)
+!jumpscare (costo: 100 manzi) (jumpscare)
+!urlodonna (costo: 100 manzi) (jumpscare)
+!angoli (costo: 100 manzi) (ermanzo originals) (valorant)
+!asmrsoldi (costo:100 manzi) (ermanzo originals) (valorant)
+!spamping (costo: 100 manzi) (ermanzo originals) (lol)
+!prontocarretto (costo: 100 manzi) (ermanzo originals) (lol)
+!seseifortesali (costo: 100 manzi) (ermanzo originals) (lol)
+!caster (costo: 100 manzi) (ermanzo originals) (lol)
+!squalojgl (costo: 100 manzi) (ermanzo originals) (lol)
+!asmrr (due r eh) (costo: 80 manzi) (ermanzo originals) (lol)
+!asmrmid (costo: 100 manzi) (ermanzo originals) (lol)
+!asmrmana (costo: 100 manzi) (ermanzo originals) (lol)
 
 SUONI ESCLUSIVI (TRAMITE !newsound)
 !acaso (costo: 70 manzi) (obigbosso738)
@@ -43,73 +57,45 @@ SUONI ESCLUSIVI (TRAMITE !newsound)
 !fuckyou (costo: 70 manzi) (obigbosso738)
 !fuoco (costo: 70 manzi) (cardinalcopia__)
 !godimento (costo: 70 manzi) (obigbosso738)
-!
-
-
-
-
-
-
-
-
-
-
-!itis (costo: 100 manzi) (suono) / !itisboss (per obigbosso738)
-!jojo (costo: 100 manzi) (suono) / !jojoboss (per obigbosso738)
-!bruh (costo: 100 manzi) (suono) / !bruhboss (per obigbosso738)
-!fakerviene (costo: 100 manzi) (suono) / !fakerboss (per obigbosso738)
-!porta (costo: 100 manzi) (suono) / !portaboss (per obigbosso738)
-!lag (costo: 100 manzi) (suono) / !lagboss (per obigbosso738)
-!wombocombo (costo: 100 manzi) (suono) / !womboboss (per obigbosso738)
-!snore (costo: 100 manzi) (suono) / !snoreboss (per obigbosso738)
-!korone (costo: 100 manzi) (suono) / !koroneboss (per obigbosso738)
-!love (costo: 100 manzi) (suono) / !loveboss (per obigbosso738)
-!passi (costo: 100 manzi) (suono) / !passiboss (per obigbosso738)
-!jesse (costo: 100 manzi) (suono) / !jesseboss (per obigbosso738)
-!sneeze (costo: 100 manzi) (suono) / !sneezeboss (per obigbosso738)
-!wassup (costo: 100 manzi) (suono) / !wassupmeed (per iOxMeed)
-!ohw (costo: 100 manzi) (suono) / !ohwmeed (per iOxMeed)
-!minion (costo: 100 manzi) (suono) / !minionboss (per obigbosso738)
-!doppio (costo: 100 manzi) (suono) / !doppioserb (per survivalserb3)
-!maa (costo: 100 manzi) (suono) / !maakramina (per Kramina)
-!spiderman (costo: 100 manzi) (suono) / !spidermanboss (per obigbosso738)
-!women (costo: 100 manzi) (suono) / !womenboss (per obigbosso738)
-!uomo (costo: 100 manzi) (suono) / !uomoserb (per survivalserb3)
-!twitter (costo: 100 manzi) (suono) / !twitterobito (per obitoquack)
-!titanic (costo: 100 manzi) (suono) / !titanicserb (per survivalserb3)
-!goofy (costo: 100 manzi) (suono) / !goofyobito (per obitoquack)
-!pollo (costo: 100 manzi) (suono) / !pollostaz (per stazizz89)
-
-
-SUONI JUMPSCARE
-!fart (costo: 100 manzi) (suono) (jumpscare)
-!jumpscare (costo: 100 manzi) (suono) (jumpscare)
-!urlo (costo: 100 manzi) (suono) (jumpscare)
-!urlodonna (costo: 100 manzi) (suono) / !urlostazizz (per stazizz89)
-
-SUONI A TEMA LOL
-!spamping (costo: 100 manzi) (suono) (ermanzo originals)
-!prontocarretto (costo: 100 manzi) (suono) (ermanzo originals)
-!seseifortesali (costo: 100 manzi) (suono) (ermanzo originals)
-!caster (costo: 100 manzi) (suono) (ermanzo originals)
-!squalojgl (costo: 100 manzi) (suono) (ermanzo originals)
-!asmrr (due r eh) (costo: 80 manzi) (suono) (ermanzo originals)
-!asmrmid (costo: 80 manzi) (suono) (ermanzo originals)
-!asmrmana (costo: 80 manzi) (suono) (ermanzo originals)
-
-SUONI A TEMA VALORANT
-!asmrsoldi (costo: 80 manzi) (suono) (ermanzo originals)
-!angoli (costo: 100 manzi) (suono) (ermanzo originals)
-
-COMANDI A TEMA SKYRIM
-!guardia (costo: 100 manzi) (suono) / !guardiaserb (per survivalserb3)
-
-
-
-COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
-!nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon       selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)
-!ko (costo: 250 manzi) (sono costretto a mettere k.o. il Pokèmon selvatico di turno) (valido solo per il pokèmon che sto attualmente combattendo!)
-!squadra (costo: 400 manzi) (scegli tu 3 Pokèmon da mettere in squadra nella prossima lotta contro un allenatore)
+!goofy (costo: 70 manzi) (obitoquack)
+!griffin (costo: 70 manzi) (dottor_mb)
+!grimm (costo: 70 manzi) (jjxjj789)
+!guardia (costo: 70 manzi) (survivalserb3)
+!hero (costo: 70 manzi) (dottor_mb)
+!itis (costo: 70 manzi) (obigbosso738)
+!jesse (costo: 70 manzi) (obigbosso738)
+!jojo (costo: 70 manzi) (obigbosso738)
+!korone (costo: 70 manzi) (obigbosso738)
+!kramina (costo: 70 manzi) (survivalserb3)
+!lag (costo: 70 manzi) (obigbosso738)
+!love (costo: 70 manzi) (obigbosso738)
+!maa (costo: 70 manzi) (kramina)
+!minion (costo: 70 manzi) (obigbosso738)
+!ohw (costo: 70 manzi) (iOxMeed)
+!passi (costo: 70 manzi) (obigbosso738)
+!pollo (costo: 70 manzi) (stazizz89)
+!porta (costo: 70 manzi) (obigbosso738)
+!ragdoll (costo: 70 manzi) (obigbosso738)
+!raphael (costo: 70 manzi) (survivalserb3)
+!rocky (costo: 70 manzi) (dottor_mb)
+!scream (costo: 70 manzi) (survivalserb3)
+!sisi (costo: 70 manzi) (obigbosso738)
+!sneeze (costo: 70 manzi) (obigbosso738)
+!snore (costo: 70 manzi) (obigbosso738)
+!spiderman (costo: 70 manzi) (obigbosso738)
+!superquark (costo: 70 manzi) (dottor_mb)
+!testosterone (costo: 70 manzi) (mirkopellle)
+!titanic (costo: 70 manzi) (survivalserb3)
+!twitter (costo: 70 manzi) (obitoquack)
+!uomo (costo: 70 manzi) (survivalserb3)
+!urlo (costo: 70 manzi) (stazizz89)
+!wassup (costo: 70 manzi) (iOxMeed)
+!whisper (costo: 70 manzi) (obigbosso738)
+!whistle (costo: 70 manzi) (obigbosso738)
+!wombocombo (costo: 70 manzi) (obigbosso738)
+!women (costo: 70 manzi) (obigbosso738)
+!yugioh (costo: 70 manzi) (obigbosso738)
+!zelda (costo: 70 manzi) (dottor_mb)
 
 PENITENZE (validi solo quando decido io, solitamente souls)
 !loda (costo: 150 manzi) (azione)
@@ -117,6 +103,10 @@ PENITENZE (validi solo quando decido io, solitamente souls)
 !fermo (costo: 250 manzi) (azione) (ermanzo originals)
 !morte (costo: 500 manzi) (azione) (ermanzo originals)
 !nocure (costo: 200 manzi) (azione) (ermanzo originals)
-!attento (costo: 100 manzi) (suono) (ermanzo originals)
+
+COMANDI POKÈMON (validi solo quando gioco a Pokèmon)
+!nome (costo: 150 manzi) (scrivi in chat il soprannome da dare a questo o al prossimo Pokèmon selvatico) (ha un cooldown personale di 20 min, quindi scegli bene)
+!ko (costo: 250 manzi) (sono costretto a mettere k.o. il Pokèmon selvatico di turno) (valido solo per il pokèmon che sto attualmente combattendo!)
+!squadra (costo: 400 manzi) (scegli tu 3 Pokèmon da mettere in squadra nella prossima lotta contro un allenatore)
 
 NUOVI COMANDI E SUONI ARRIVERANNO A BREVE
